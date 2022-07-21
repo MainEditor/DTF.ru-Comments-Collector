@@ -9,7 +9,7 @@ def main():
     # Название статьи
     Title = re.get(f'https://api.dtf.ru/v1.8/entry/{ _id }').json()['result']['title']
 
-    # Никнейм авторя статьи
+    # Никнейм авторa статьи
     Name = re.get(f'https://api.dtf.ru/v1.8/entry/{ _id }').json()['result']['author']['name']
 
     print(f'\nНазвание и автор публикации: \n\t{ Title }   -----   { Name }')
