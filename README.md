@@ -10,3 +10,5 @@
 После завершения работы в директории со скриптом появится .txt файл со ссылками на профили комментаторов
 # Гифка:
 ![gg](https://user-images.githubusercontent.com/98752769/180237857-110729b2-0859-45d6-bf06-e6f947e55f10.gif)
+# Статья на DTF.ru от elvrik:
+  https://dtf.ru/flood/1279060-dtfru-cc-utilita-dlya-pomoshchi-vybora-pobeditelya-v-kommentariyah
